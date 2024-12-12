@@ -6,6 +6,7 @@ int main(){
     while(t--){
         int x,y,k;
         cin>>x>>y>>k;
+        // this is very good
         int a=x%k;
         int b=y%k;
         int countx=x/k;
