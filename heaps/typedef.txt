@@ -1,0 +1,8 @@
+typedef is used to intitialize a pair
+we dont need to write the pair<int,int> again again and again instead we can just initialize it with other variable
+
+
+typedef pair<int,int> p;
+
+
+now we can use p as pair<int,int>

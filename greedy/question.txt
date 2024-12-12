@@ -1,0 +1,20 @@
+leetcode 1005 -> easy question
+leetcode 1710 -> medium question -> knapsack algo
+leetcode 881 -> easy two pointer approach
+leetcode 2182 -> medium to hard question
+leetcode 781 -> easy to medium question
+leetcode 253 -> easy to medium question
+leetcode 56 -> medium question
+leetcode 435 -> same as previous
+leetcode 452 -> similar to previous question
+leetcode 480 -> hard and not solved
+
+
+
+
+
+
+
+leetcode 2600 -> easy question
+leetcode 134 -> medium to hard question
+leetcode2 2357 -> easy question

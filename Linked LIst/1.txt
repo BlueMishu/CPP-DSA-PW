@@ -1,0 +1,18 @@
+leetcode 19 -> medium question of linked list can be done with two approaches 1 with the brute force and second with the slow fast approaches
+leetcode 876 -> slow fast approaches
+leetcode 160 -> good question of ll , slow fast approache
+leetcode 141 -> vimp question
+leetcode 83 -> easy question
+leetcode 61 -> little tricky question have to make 3 pointers and play with them
+spiral matrix 4
+leetcode 21 -> little tricky but importaint question
+leetcode 23 -> on the base of leetcode 21 but repeatedly doing leetcode 21
+leetcode 148 -> little tricky question , 3 concept is used
+leetcode 86 -> little tricky question , similar to last question
+leetcode 206 -> easy question , same implementation as of array (bad approach ), a good approach will be by making three nodes current , previous , next
+leetcode 234 -> little tricky question , can be done with three approaches , reverse linkedlist is used
+leetcode 92 -> reverse part of a linked list
+
+
+leetcode 725 -> moderate question  , have to use older concept
+leetcode 2058 -> moderate question , have to make 3 nodes to solve this question

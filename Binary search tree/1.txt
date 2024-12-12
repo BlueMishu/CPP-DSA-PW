@@ -1,0 +1,16 @@
+leetcode 700 ->  search in binary search tree -> similar to binary search tree
+leetcode 701 -> insert a node in binary search tree -> basically ofcus on two conditions 
+leetcode 235 -> little tricky uses the basics of binary sarch tree
+leetcode 98 -> m1 -> brute force method -> check for the maximum
+            -> m2 -> inorder of bst is always sorted
+leetcode 1038 -> easy question just have to reverse inorder and add everythiong
+leetcode 108 -> medium question use of binary search
+leetcode 1008 -> little hard , take the help of 701 ques and just use the loop
+leetcode 650 -> delete node in a binary search tree 3 cases -> 1 no child -> 2 1 child -> 3 2 child
+             -> little hard question and important question
+leetcode 230 -> assignment que -> easy question 
+leetcode 1382 -> assignment que -> medium question -> 2-3 mix concepts are used which are used in previus question
+leetcode 938 -> easy question
+leetcode 669 -> best question till now -> if(root->left->val<lo) root->left=root->left->right
+leetcode 114 -> m1 -> using preorder
+             -> m2 -> 

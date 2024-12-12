@@ -1,0 +1,11 @@
+leetcode 543 -> easy question use of max function 
+leetcode 100 -> have to think about the base cases , easy to medium question
+leetcode 226 -> basic swapping is used
+leetcode 257 -> little tricky question similar to recursion question
+leetcode 236 -> medium question , focus on making different cases
+leetcode 144 -> preorder traversal
+leetcode 94 -> inorder traversal
+leetcode 145 -> postorder traversal
+leetcode 102 -> level order printing
+leetcode 110 -> easy question , but while doing recursion we must use if , else
+leetcode 106 -> medium question , just 2-3 functions are used

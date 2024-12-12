@@ -1,0 +1,3 @@
+leetcode 1480 -> easy question of pre running sum -> pre sum
+leetcode 238 -> little thinking is required -> just multiply the prefix with the suffix
+leetcode 2483 ->  little tricky question , we have to take 1 extra size in pre and suf

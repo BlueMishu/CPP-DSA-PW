@@ -1,0 +1,35 @@
+leetcode 509 -> easy question -> using 3 different approaches (can be seen on linkedin submission)
+                1 recursion
+                2 recursion + memoization
+                3 tabulation / iterative DP / Bottom Up
+                4 space optimization
+leetcode 746 -> medium question
+leetcode 62 -> easy to medium question
+leetcode 198 -> medium question
+leetcode 213 -> extension of avove question just see the hint
+leetcode 64 -> easy to medium question
+0/1 knapsack -> geeks for geeks 
+leetcode 416 -> medium question similar to previos question
+leetcode 494 -> recursive question is easy but dp solution is hard
+unbound knapsack -> on geeks for kees , similar to knapsack just one small change
+leetcode 322 recursion is hard but memoziation is easy
+leetcode 518 -> medium to hard question
+leetcode 1143 -> medium question -> check from last element
+leetcode 516 -> easy to medium question 
+leetcode 1312 -> easy to medium question
+leetcode 583 -> eays question
+print longest common subsequence -> on gfg -> use of tuabulation
+leetcode 72 -> medium to hard question -> just think of three case and put it in recusion
+leetcode 647 ->  hard question on loops
+leetcode 543 -> medium to hard
+leetcode 337 -> medium question
+leetcode 124 -> very hard question
+
+
+
+
+leetcode 2915 -> 
+leetcode 518 -> 
+leetcode 712 -> 
+leetcode 1092 -> 
+leetcode 5 -> 

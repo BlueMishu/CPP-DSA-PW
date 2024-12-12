@@ -1,0 +1,11 @@
+balanced bracket -> 18.cpp -> easy question
+next greatest elemnt -> 20.cpp -> hard question it build the basic of stack -> pop ans push
+previous greatest element -> 21.cpp -> just opposite of next greatest element
+stock span problem -> almost same with previos questions -> 22.cpp
+leetcode 84 -> hard problem basically uses next smallest element and previous smallest element
+leetcode 20 -> easy question replica of balanced brackets
+leetcode 1475 -> easy question
+leetcode 1944 -> hard question just a variation of next greatest element
+leetcode 239 -> very hard question , use of slidinng window
+leetcode 155 -> brute force approach tc is on^2 , 2nd approach is littly differenct , 3 rd approach is very good
+leetcode 682 -> very easy question
