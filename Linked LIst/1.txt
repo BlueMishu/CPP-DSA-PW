@@ -1,4 +1,4 @@
-leetcode 19 -> medium question of linked list can be done with two approaches 1 with the brute force and second with the slow fast approaches
+*leetcode 19 -> medium question of linked list can be done with two approaches 1 with the brute force and second with the slow fast approaches
 leetcode 876 -> slow fast approaches
 leetcode 160 -> good question of ll , slow fast approache
 leetcode 141 -> vimp question
