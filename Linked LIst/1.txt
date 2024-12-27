@@ -4,7 +4,7 @@ leetcode 160 -> good question of ll , slow fast approache
 leetcode 141 -> vimp question
 leetcode 83 -> easy question
 leetcode 61 -> little tricky question have to make 3 pointers and play with them
-spiral matrix 4
+leetcode 2326 -> spiral matrix 4 -> not solved
 leetcode 21 -> little tricky but importaint question
 leetcode 23 -> on the base of leetcode 21 but repeatedly doing leetcode 21
 leetcode 148 -> little tricky question , 3 concept is used
